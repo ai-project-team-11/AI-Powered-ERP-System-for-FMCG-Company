@@ -33,7 +33,9 @@ Statsmodels: For ARIMA modeling in inventory forecasting.
 
 spaCy: For natural language processing in the chatbot feature.
 
-OpenPyXL: For reading and writing Excel files.
+OpenPyXL: For reading and writing Excel files. 
+
+Transformers
 
 # Getting Started
 Prerequisites:
